@@ -1,0 +1,42 @@
+# Build outputs
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.pdb
+*.ilk
+*.out
+
+# Local binaries produced by the existing Makefile
+/multipitch
+/program
+/afx
+/audiofx
+/PitchMultiShifter
+/Whar
+/wjug
+
+# Generated audio/video and scratch artifacts
+*.wav
+*.mp3
+*.flac
+*.mp4
+/output.wav
+/test-output.wav
+
+# IDE and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local archives and imported working trees
+*.zip
+import/*/.git/
+multipitch - Copy.c
+audiofx.c
+MultiPitchShifter.lnk
+multipitch - Copy.c
