@@ -1643,7 +1643,7 @@ static void print_usage(const char *program) {
             "  --soundtouch uses the embedded SoundTouch engine.\n"
             "  --no-normalize disables final peak normalization and clamps instead.\n"
             "  --rubberband-args accepts supported Rubber Band-style flags, e.g. \"-2 --pitch-hc --window-short\".\n"
-            "This Program is made by Beebo\n",
+            "\n",
             program, program, program);
 }
 
