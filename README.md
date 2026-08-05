@@ -4,6 +4,9 @@
 multiple pitch offsets, stretches each layer back to the original timing,
 mixes the layers, normalizes the result, and writes a new WAV file.
 
+## YOU MUST OBTAIN THE SOURCE CODE FROM THE OFFICAL REPOSITORIES
+
+
 ## Build
 
 The supported build uses Make and a C/C++ compiler:
