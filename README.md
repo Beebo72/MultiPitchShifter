@@ -1,4 +1,4 @@
-# MultiPitchShifter
+# MultiPitchShifter the program used in ICF+ and BeeboVideo
 
 `multipitch` is a command-line tool that reads a 16-bit PCM WAV file, applies
 multiple pitch offsets, stretches each layer back to the original timing,
